@@ -1,7 +1,7 @@
 MineOffline-Linux
 =================
 
-MineOffline port to 
+MineOffline port to Linux
 
 Linux Version Notes:
 ===========
